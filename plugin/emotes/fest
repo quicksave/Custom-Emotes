@@ -1,0 +1,12 @@
+{
+    "name": "fest",
+    "emotes": 
+    {
+        ":blessed:": 
+        {
+            "size": 72,
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/quicksave/Custom-Emotes/gh-pages/plugin/images/coli-rejoice-resize.png"
+        }
+    }
+}
